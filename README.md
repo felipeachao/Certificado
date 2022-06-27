@@ -1,2 +1,2 @@
-## Hiring Coders 3
-<a href = "https://felipeachao.github.io/Certificado/vtex/"> Formação Full Stack</a> 
+#### Hiring Coders 3
+* <a href = "https://felipeachao.github.io/Certificado/vtex/"> Formação Full Stack</a> 
